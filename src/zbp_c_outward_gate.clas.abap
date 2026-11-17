@@ -1,0 +1,9 @@
+CLASS zbp_c_outward_gate DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zc_outward_gate.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZBP_C_OUTWARD_GATE IMPLEMENTATION.
+ENDCLASS.
